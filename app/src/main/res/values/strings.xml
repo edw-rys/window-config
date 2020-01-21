@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VisualWindow</string>
+    <string name="value_first_color">#009ABB</string>
+    <string name="value_second_color">#2E2E2E</string>
+    <string-array name="numbers">
+        <item>Jungle Land</item>
+        <item>keysha</item>
+        <item>Vesta Night</item>
+    </string-array>
+    <string-array name="colors">
+        <item>CYAN</item>
+        <item>LTGRAY</item>
+        <item>BLUE</item>
+        <item>YELLOW</item>
+    </string-array>
+</resources>
