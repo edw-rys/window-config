@@ -15,10 +15,8 @@ _Hola mundo configurable xd_
 ---
 ## Screenshot Example
 <img src="https://raw.githubusercontent.com/edw-rys/window-config/master/img/t0.png" width="200" height="400">
-
 <img src="https://raw.githubusercontent.com/edw-rys/window-config/master/img/t2.png" width="200" height="400">
 
 <img src="https://raw.githubusercontent.com/edw-rys/window-config/master/img/t3.png" width="200" height="400">
-
 <img src="https://raw.githubusercontent.com/edw-rys/window-config/master/img/t4.png" width="200" height="400">
 
